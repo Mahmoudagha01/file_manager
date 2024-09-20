@@ -6,7 +6,7 @@ A new Flutter project I did this app to practice on isolates to achieve multi-th
 
 1. Home Screen:<br />
 a. Display files and folders from the device’s root directory.<br />
-b. Use a list or grid view to show the contents.<br />
+b. Use a list view to show the contents.<br />
 c. Implement navigation to allow users to move through directories
 and subdirectories.<br />
 3. File & Folder Navigation:<br />
